@@ -1,0 +1,9 @@
+=== STDOUT ===
+Parseo exitoso
+Codigo:
+print({ 1 2 }  cup { 2 3 } )
+
+Interprete:Operador desconocido
+0
+
+=== STDERR ===

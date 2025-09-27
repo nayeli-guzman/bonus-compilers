@@ -1,0 +1,31 @@
+Scanner
+
+TOKEN(ID, "x")
+TOKEN(ASSIGN, "=")
+TOKEN(NUM, "4")
+TOKEN(SEMICOL, ";")
+TOKEN(ID, "y")
+TOKEN(ASSIGN, "=")
+TOKEN(LBRACE, "{")
+TOKEN(ID, "x")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "2")
+TOKEN(RBRACE, "}")
+TOKEN(SEMICOL, ";")
+TOKEN(ID, "z")
+TOKEN(ASSIGN, "=")
+TOKEN(ID, "y")
+TOKEN(CUP, "cup")
+TOKEN(LBRACE, "{")
+TOKEN(NUM, "3")
+TOKEN(RBRACE, "}")
+TOKEN(SEMICOL, ";")
+TOKEN(PRINT, "print")
+TOKEN(LPAREN, "(")
+TOKEN(ID, "z")
+TOKEN(RPAREN, ")")
+TOKEN(SEMICOL, ";")
+TOKEN(END)
+
+Scanner exitoso
+

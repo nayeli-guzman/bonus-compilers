@@ -1,0 +1,20 @@
+Scanner
+
+TOKEN(PRINT, "print")
+TOKEN(LPAREN, "(")
+TOKEN(LBRACE, "{")
+TOKEN(NUM, "1")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "2")
+TOKEN(RBRACE, "}")
+TOKEN(CUP, "cup")
+TOKEN(LBRACE, "{")
+TOKEN(NUM, "2")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "3")
+TOKEN(RBRACE, "}")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+
